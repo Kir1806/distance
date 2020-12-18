@@ -459,5 +459,25 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid #3a93f1;
+}
 
+.concuria {
+    background-image: url(/img/concuria-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 3px solid #3a93f1;
+}
+.ant {
+    background-image: url(/img/ant-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 3px solid #3a93f1;
+}
+.more-story {
+    padding: 0;
+    margin: 0;
+    color: #1890FF;  
 }
